@@ -5,7 +5,7 @@
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Nazareno;I'm+19+years+old;I+am+from+São+Luís,+MA;I+study+analysis+and+systems+development+at+Anhanguera;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Nazareno;I'm+19+years+old;I+am+from+São+Luís,+MA;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <br> 
 
