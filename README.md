@@ -8,7 +8,7 @@
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dadbd4&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!)](https://git.io/typing-svg) 
 
 <br> 
 
