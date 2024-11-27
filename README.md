@@ -40,7 +40,6 @@
 ![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFA500&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jquery-0D1117?style=for-the-badge&logo=jquery&logoColor=1E90FF&labelColor=0D111)&nbsp;
   
