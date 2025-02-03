@@ -1,7 +1,7 @@
 
 <h1 align="center">Seja muito bem-vindo! 👋</h1>
 
-<img height="260em" align="right" src="https://github.com/user-attachments/assets/a35bda00-e36f-48a5-a687-02301c042bdd"/>
+<img height="360em" align="right" src="https://github.com/user-attachments/assets/a35bda00-e36f-48a5-a687-02301c042bdd"/>
 
 
 ### Olá, sou João Nazareno 👋
