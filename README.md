@@ -23,13 +23,6 @@ Tenho um espírito inquieto para aprender e encontrar soluções inovadoras. Est
    
 ##
 
-### 🎯 Metas atuais:  
-🔹 Boas práticas de programação (princípios SOLID, Clean Code)   
-🔹 Aprofundar meu conhecimento em React.js  
-🔹 Implementar proteções contra SQL Injection, XSS (Cross-Site Scripting) e CSRF (Cross-Site Request Forgery)  
-
-##
-
 ### 👓 Outros interesses:  
 🔹 Tecnologia  
 🔹 Tênis de mesa   
@@ -57,7 +50,7 @@ Tenho um espírito inquieto para aprender e encontrar soluções inovadoras. Est
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
