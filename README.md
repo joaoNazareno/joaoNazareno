@@ -58,5 +58,4 @@ Tenho um espírito inquieto para aprender e encontrar soluções inovadoras. Est
 
 ##
 
-
 <p  align="center"> “Todos deveriam aprender a programar um computador, porque isso ensina a pensar.” -  Steve Jobs </p>
