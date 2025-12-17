@@ -26,8 +26,10 @@ Tenho um espírito inquieto para aprender e encontrar soluções inovadoras. Est
 
 ### 👓 Outros interesses:  
 🔹 Tecnologia  
-🔹 Tênis de mesa   
 🔹 Setup home office
+🔹 Xadrez
+🔹 Truco
+
 
 ##
 
